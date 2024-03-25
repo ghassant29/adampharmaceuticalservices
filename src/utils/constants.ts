@@ -88,7 +88,7 @@ export const productsDetails = [
     `,
     image: "/products/2.png",
     productId: "fortyD",
-    brochure: ["/brochure/forty_d_1.jpg", "/brochure/forty_d_2.jpg"]
+    brochure: ["/brochure/forty_d_1.jpg", "/brochure/forty_d_2.jpg"],
   },
   {
     name: "Forty FER",
@@ -113,7 +113,7 @@ export const productsDetails = [
     `,
     image: "/products/3.png",
     productId: "fortyFer",
-    brochure: ["/brochure/forty_fer_1.jpg", "/brochure/forty_fer_2.jpg"]
+    brochure: ["/brochure/forty_fer_1.jpg", "/brochure/forty_fer_2.jpg"],
   },
   {
     name: "Forty VIT Syrup",
@@ -142,7 +142,7 @@ export const productsDetails = [
     `,
     image: "/products/4.png",
     productId: "fortyVitSyrup",
-    brochure: ["/brochure/forty_vit_1.jpg", "/brochure/forty_vit_2.jpg"]
+    brochure: ["/brochure/forty_vit_1.jpg", "/brochure/forty_vit_2.jpg"],
   },
   {
     name: "Spermax",
@@ -160,8 +160,7 @@ export const productsDetails = [
       "/brochure/spermax_1.jpg",
       "/brochure/spermax_2.jpg",
       "/brochure/spermax_3.jpg",
-      "/brochure/spermax_4.jpg"
-    ]
+    ],
   },
   {
     name: "Inovial",
