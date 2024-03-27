@@ -22,7 +22,7 @@ const HeroSection = () => {
             component={"p"}
             options={{
               delay: 30,
-              deleteSpeed: 40,
+              deleteSpeed: 10,
               strings: strings,
               autoStart: true,
               loop: true,

@@ -238,7 +238,7 @@ crucial time:</p>
 
       <strong>30 Capsules</strong>
 
-      <p><strong>Directions: </strong> Take 1 capsule daily with food or as directed by your physician.</p>
+      <p><strong>Directions: </strong> Take 1 capsule per day with food or as directed by your physician.</p>
 
 
     `,
