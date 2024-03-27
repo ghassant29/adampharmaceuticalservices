@@ -95,8 +95,7 @@ export const productsDetails = [
     subName: "Innovative Liposomal Iron",
     description: `
       <p><strong>Experience the next generation of iron supplementation</strong> with Forty FER®, a highly soluble and bioavailable liposomal iron formula.</p>
-      <strong>28 Capsules</strong>
-      <p><strong>Directions: </strong>One/Two Capsules Per Day<p>
+
       <p>Gentle on the stomach and free from the typical iron taste, Forty FER® offers superior absorption without gastrointestinal discomfort. Each capsule of Forty FER® contains:</p>
       <ul>
         <li>Iron pyrophosphate: <strong>55 mg</strong></li>
@@ -112,6 +111,8 @@ export const productsDetails = [
         <li>Reduction of fatigue and tiredness</li>
       </ul>
       <p>Unlock the potential of liposomal iron supplementation with Forty FER®, ensuring optimal iron levels for overall well-being and vitality.</p>
+      <strong>28 Capsules</strong>
+      <p><strong>Directions: </strong>One to Two Capsules Per Day<p>
     `,
     image: "/products/3.png",
     productId: "fortyFer",
@@ -161,7 +162,8 @@ export const productsDetails = [
     <p><strong>Folic acid 100 mcg:</strong> Plays a crucial role in the synthesis of nucleic acids and acts as an excellent antioxidant, supporting sperm health.</p>
     <p><strong>Magnesium 10 mg:</strong> Supports the production of healthy sperm and seminal fluids, and regulates blood flow to the reproductive organs.</p>
     <p><strong>L-Arginine 25 mg:</strong> Enhances erectile function by stimulating the synthesis of Nitric Oxide and supports the production of normal, healthy sperm.</p>
-    <p>Discover the synergistic power of our fertility formula, meticulously crafted to support your reproductive goals and optimize your journey towards parenthood. Unlock your potential and embrace the possibilities of a vibrant and fertile future.</p>`,
+    <p>Discover the synergistic power of our fertility formula, meticulously crafted to support your reproductive goals and optimize your journey towards parenthood. Unlock your potential and embrace the possibilities of a vibrant and fertile future.</p>
+    <br><p><strong>90 Capsules<br><br>Directions:</strong> 3 Capsules Per Day</p>`,
     image: "/products/1.png",
     productId: "spermax",
     brochure: [
@@ -177,10 +179,7 @@ export const productsDetails = [
       <p>Combat the challenges of Polycystic Ovary Syndrome (PCOS) and enhance fertility with Inovial, a specialized dietary supplement designed to address the multifactorial pathology affecting women of reproductive age.</p>
       <p>PCOS disrupts hormonal balance, leading to irregular menstruation, ovulation problems, and infertility. Additionally, symptoms such as acne, facial hair, insulin resistance, and weight gain further complicate the condition.</p>
       <p>Inovial combines micronutrients with proven efficacy in improving women's fertility:</p>
-      <p><strong>Directions: </strong>Take 2 to 3 capsules per day with food as directed by your physician</p>
-      <p><strong>60 Capsules</strong</p>
-     
-      <p><strong>Amout Per Capsule</strong></p>
+    
       <ul>
 
         <li><strong>D-Chiro-Inositol: 50 mg</strong></li>
@@ -190,6 +189,13 @@ export const productsDetails = [
         <li><strong>L-Tyrosine: 70 mg</strong></li>
       </ul>
       <p>Empower yourself to overcome the challenges of PCOS and enhance your fertility with Inovial.</p>
+      
+      <p><strong>60 Capsules</strong</p>
+
+      <p><strong>Directions: </strong>Take 2 to 3 capsules per day with food as directed by your physician</p>
+     
+     
+      
     `,
     image: "/products/5.png",
     productId: "inovial",
@@ -201,12 +207,7 @@ export const productsDetails = [
       <p>Experience optimal health during pregnancy and breastfeeding with Fortivial, your essential dietary supplement formulated to support the unique nutritional needs of expectant and nursing mothers.</p>
       <p>Fortivial contains a comprehensive blend of key vitamins and minerals to bridge nutritional gaps and ensure optimal health during this
 crucial time:</p>
-<p><strong>Directions: </strong> Take one capsule daily with food or as directed by your physician</p>
 
-<ul>
-<li><strong>Serving size:</strong> 1 capsule</li>
-<li><strong>Servings per container:</strong> 30</li>
-</ul>
 
 <ul>
 <li><strong>Amount per Capsule:</strong></li>
@@ -232,6 +233,13 @@ crucial time:</p>
 <li>Life's DHA: 100mg (High DHA omega-3 powder)</li>
 </ul>
       <p>Ensure you and your baby receive the essential nutrients needed for a healthy pregnancy and postnatal period with Fortivial.</p>
+      
+
+      <p><strong>30 Capsules</strong</p>
+
+      <p><strong>Directions: </strong> Take one capsule daily with food or as directed by your physician</p>
+
+
     `,
     image: "/products/6.png",
     productId: "fortivial",
@@ -242,14 +250,7 @@ crucial time:</p>
     description: `
     <p>FortiFlex is specially tailored to alleviate inflammation and pain and to restore joint health. Glucosamine is known to help slow down cartilage deterioration and provide pain relief in aging joints. MSM (MethylSulfonylMethane) is a natural anti-inflammatory that alleviates inflammation without any gastric side effects. FortiFlex also contains other long-lasting anti-inflammatory substances that reduce pain in both acute and chronic inflammations. Collagen gives cartilage its smoothness and strength, whereas hyaluronic acid lubricates joints for better freedom of movement. With all these ingredients, FortiFlex will reduce inflammation and joint pain and restore comfortable flexible movement.</p>
 
-    <h3>DIRECTIONS</h3>
-    <p>Take two capsules per day with food or as directed by your physician.</p>
     
-    <h3>SUPPLEMENT FACTS</h3>
-    <ul>
-        <li><strong>Serving size:</strong> 2 capsules</li>
-        <li><strong>Servings Per Pack:</strong> 30</li>
-    </ul>
     
     <ul>
         <li><strong>Amount per serving:</strong></li>
@@ -262,6 +263,12 @@ crucial time:</p>
         <li>Bromelain: 20 mg</li>
         <li>Hyaluronic acid: 5 mg</li>
     </ul>
+ 
+ 
+    
+    <p><strong>60 Capsules</strong</p>
+
+      <p><strong>Directions: </strong> Take two capsules per day with food or as directed by your physician.</p>
     `,
     image: "/products/7.png",
     productId: "fortiFlex",
@@ -274,14 +281,6 @@ crucial time:</p>
 
     <p>FortiMag also contains Melissa officinalis, also known as lemon balm, which helps reduce anxiety and insomnia while improving mood and wellbeing. With all these ingredients, FortiMag prevents muscle cramps, relieves stress, and promotes calm nights and energetic days.</p>
     
-    <h3>DIRECTIONS</h3>
-    <p>Take one capsule daily in the afternoon or as directed by your physician.</p>
-    
-    <h3>SUPPLEMENT FACTS</h3>
-    <ul>
-        <li><strong>Serving size:</strong> 1 capsule</li>
-        <li><strong>Servings Per Pack:</strong> 30</li>
-    </ul>
     
     <ul>
         <li><strong>Amount per serving:</strong></li>
@@ -290,7 +289,13 @@ crucial time:</p>
         <li>Vitamin B9 (Folate): 1000 mcg</li>
         <li>Vitamin B12: 100 mcg</li>
         <li>Melissa officinalis: 20 mg</li>
-    </ul> `,
+    </ul> 
+   
+    
+    <p><strong>30 Capsules</strong</p>
+
+      <p><strong>Directions: </strong> Take one capsule daily in the afternoon or as directed by your physician.</p>
+    `,
     image: "/products/8.png",
     productId: "fortiMag",
   },
@@ -300,14 +305,7 @@ crucial time:</p>
     description: `
     <p>Impaired nervous functions can cause pain, numbness, burning sensations, and sleep disturbances. FortiNerve is a dietary supplement tailored to help reduce neuropathic anomalies, especially neuropathic pain. It contains highly-dosed MSM (MethylSulfonyl-Methane), a natural anti-inflammatory that provides long-lasting pain relief without any gastric or cardiovascular side effects. Additionally, FortiNerve includes a combination of vitamins B1, B2, B6, and B12, which enhance energy production and neuromuscular transmission. This supplement aims to improve quality of life by energizing the body during the day, enhancing physical and mental performance, and alleviating pain, all with a high safety profile.</p>
 
-    <h3>DIRECTIONS</h3>
-    <p>Take one capsule daily with breakfast or as directed by your physician.</p>
-    
-    <h3>SUPPLEMENT FACTS</h3>
-    <ul>
-        <li><strong>Serving size:</strong> 1 capsule</li>
-        <li><strong>Servings Per Pack:</strong> 30</li>
-    </ul>
+   
     
     <ul>
         <li><strong>Amount per serving:</strong></li>
@@ -316,7 +314,13 @@ crucial time:</p>
         <li>Vitamin B2: 5 mg</li>
         <li>Vitamin B6: 10 mg</li>
         <li>Vitamin B12: 500 mcg</li>
-    </ul>`,
+    </ul>
+    <p><strong>30 Capsules</strong</p>
+
+    <p><strong>Directions: </strong> Take one capsule daily with breakfast or as directed by your physician.</p>
+  
+    
+    `,
     image: "/products/9.png",
     productId: "fortiNerve",
   },

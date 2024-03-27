@@ -20,6 +20,7 @@ const ProductPage = () => {
           {product.name}
         </h1>
       </div>
+      <div className="hidden md:block h-[50px]"></div>
       <div className="container mx-auto py-12 px-4 sm:px-6 lg:px-8 h-fit">
         <div className="bg-white border-2  overflow-hidden rounded-xl flex flex-col-reverse md:flex-row items-center h-fit">
           <div className=" border-gray-200 w-full md:w-[70%] md:border-r-2">
@@ -31,7 +32,7 @@ const ProductPage = () => {
                   <span> {product.subName}</span>
                 </dd>
               </div>
-              <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 border-b-2">
+              <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
                 <dt className="text-sm font-medium text-gray-500">
                   Description
                 </dt>
@@ -41,9 +42,9 @@ const ProductPage = () => {
                 />
               </div>
               {product.brochure && product.brochure.length > 0 && (
-                <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
+                <div className="bg-gray-50 px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6 border-t-2">
                   <dt className="text-sm font-medium text-gray-500">
-                    Brochure
+                    More Info
                   </dt>
                   <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
                     <PhotoProvider>
@@ -67,11 +68,12 @@ const ProductPage = () => {
             <img
               src={product.image}
               alt={product.name}
-              className="h-full w-full object-contain sm:h-80 sm:w-8h-80 rounded-lg"
+              className="h-full w-full object-contain sm:max-h-72 rounded-lg"
             />
           </div>
         </div>
       </div>
+      <div className="h-[100px]"></div>
     </Page>
   );
 };
