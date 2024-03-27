@@ -1,4 +1,4 @@
-import { FaCapsules, FaSyringe } from "react-icons/fa";
+import { FaPills, FaSyringe } from "react-icons/fa";
 import { FaPrescriptionBottleMedical } from "react-icons/fa6";
 import SectionHeader from "../SectionHeader";
 import ServiceCard from "./ServiceCard";
@@ -11,7 +11,7 @@ const ServicesSection = () => {
     >
       <SectionHeader
         title="Our Health Offerings"
-        subtitle="Explore Our Diverse Range of Medical Supplies and Supplement Solutions"
+        subtitle="Explore Our Diverse Range Of Medicines, Vitamins, And Medical Supplies "
       />
 
       <div className="px-6 flex flex-col md:flex-row gap-6 flex-wrap items-center justify-center">
@@ -22,12 +22,12 @@ const ServicesSection = () => {
         />
         <ServiceCard
           icon={FaSyringe}
-          title="Medical Supply Distribution"
+          title="Medical Supplies Distribution"
           description="Swiftly delivering essential medical supplies to healthcare facilities, ensuring seamless access and enhanced patient care through streamlined logistics."
         />
         <ServiceCard
-          icon={FaCapsules}
-          title="Diverse Supplements/Vitamins"
+          icon={FaPills}
+          title="Diverse Supplements"
           description="Sells a diverse range of supplements to meet various health needs, including vitamins, minerals, herbal extracts, and specialty supplements."
         />
       </div>
