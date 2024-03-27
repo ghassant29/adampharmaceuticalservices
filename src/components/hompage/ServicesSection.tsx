@@ -10,7 +10,7 @@ const ServicesSection = () => {
       className="bg-light flex items-center justify-center flex-col py-28 gap-16"
     >
       <SectionHeader
-        title="Our Health Offerings"
+        title="Serving With Care"
         subtitle="Explore Our Diverse Range Of Medicines, Vitamins, And Medical Supplies "
       />
 
