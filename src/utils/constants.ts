@@ -1,23 +1,5 @@
 export const allProducts = [
   {
-    name: "Forty D",
-    description: "Stronger Bone Development",
-    image: "/products/2.png",
-    productId: "fortyD",
-  },
-  {
-    name: "Forty FER",
-    description: "Innovative Liposomal Iron",
-    image: "/products/3.png",
-    productId: "fortyFer",
-  },
-  {
-    name: "Forty VIT Syrup",
-    description: "Health & Vitality",
-    image: "/products/4.png",
-    productId: "fortyVitSyrup",
-  },
-  {
     name: "Spermax",
     description: "Male Fertility Support",
     image: "/products/1.png",
@@ -36,12 +18,17 @@ export const allProducts = [
     productId: "fortivial",
   },
   {
+    name: "Forty FER",
+    description: "Innovative Liposomal Iron",
+    image: "/products/3.png",
+    productId: "fortyFer",
+  },
+  {
     name: "FortiFlex",
     description: "Joint Health Restoration",
     image: "/products/7.png",
     productId: "fortiFlex",
   },
-
   {
     name: "FortiMag",
     description: "Comprehensive Magnesium Supplement",
@@ -53,6 +40,19 @@ export const allProducts = [
     description: "Relief For Impaired Nervous Functions",
     image: "/products/9.png",
     productId: "fortiNerve",
+  },
+  {
+    name: "Forty D",
+    description: "Stronger Bone Development",
+    image: "/products/2.png",
+    productId: "fortyD",
+  },
+
+  {
+    name: "Forty VIT Syrup",
+    description: "Health & Vitality",
+    image: "/products/4.png",
+    productId: "fortyVitSyrup",
   },
 ];
 

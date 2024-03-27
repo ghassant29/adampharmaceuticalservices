@@ -6,7 +6,6 @@ const LogoSVG = ({ className }: Props) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
       width="1080"
       zoomAndPan="magnify"
       viewBox="0 0 810 809.999993"
