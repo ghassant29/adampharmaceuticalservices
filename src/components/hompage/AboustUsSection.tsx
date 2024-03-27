@@ -26,8 +26,9 @@ const AboustUsSection = () => {
           reputation, Adam Pharmaceutical has established partnerships with
           hospitals, medical institutions, and pharmacies. It expanded it's
           operations to become the sole distributor for numerous imported and
-          local pharmaceutical products. Our strategy focuses on maintaining
-          growth and exploring new opportunities for expansion.
+          local pharmaceutical products.{" "}
+          <strong className="font-bold">Our strategy</strong> focuses on
+          maintaining growth and exploring new opportunities for expansion.
         </p>
       </div>
     </div>
