@@ -41,8 +41,8 @@ const ContactUsSection = () => {
               </div>
               <ul className="text-white text-sm font-light list-none">
                 <li>Tel: +961 6 629 000</li>
+                <li>Tel: +961 6 628 000</li>
                 <li>Fax: +961 6 427 527</li>
-                <li>Mob: +961 3 410 136</li>
               </ul>
             </div>
           </div>

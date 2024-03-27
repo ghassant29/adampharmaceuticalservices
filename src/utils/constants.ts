@@ -95,6 +95,8 @@ export const productsDetails = [
     subName: "Innovative Liposomal Iron",
     description: `
       <p><strong>Experience the next generation of iron supplementation</strong> with Forty FER®, a highly soluble and bioavailable liposomal iron formula.</p>
+      <strong>28 Capsules</strong>
+      <p><strong>Directions: </strong>One/Two Capsules Per Day<p>
       <p>Gentle on the stomach and free from the typical iron taste, Forty FER® offers superior absorption without gastrointestinal discomfort. Each capsule of Forty FER® contains:</p>
       <ul>
         <li>Iron pyrophosphate: <strong>55 mg</strong></li>
@@ -175,9 +177,17 @@ export const productsDetails = [
       <p>Combat the challenges of Polycystic Ovary Syndrome (PCOS) and enhance fertility with Inovial, a specialized dietary supplement designed to address the multifactorial pathology affecting women of reproductive age.</p>
       <p>PCOS disrupts hormonal balance, leading to irregular menstruation, ovulation problems, and infertility. Additionally, symptoms such as acne, facial hair, insulin resistance, and weight gain further complicate the condition.</p>
       <p>Inovial combines micronutrients with proven efficacy in improving women's fertility:</p>
+      <p><strong>Directions: </strong>Take 2 to 3 capsules per day with food as directed by your physician</p>
+      <p><strong>60 Capsules</strong</p>
+     
+      <p><strong>Amout Per Capsule</strong></p>
       <ul>
-        <li><strong>D-Chiro-Inositol and Myo-Inositol:</strong> Synergistically enhance ovary function</li>
-        <li><strong>Coenzyme Q10 and L-Tyrosine:</strong> Antioxidants that protect ovarian reserve by reducing oxidative stress</li>
+
+        <li><strong>D-Chiro-Inositol: 50 mg</strong></li>
+        <li><strong>Myo-Inositol: 2000 mg</strong></li>
+        <li><strong>Folic Acid: 1000 mcmg</strong></li>
+        <li><strong>Coenzyme Q10: 30 mg</strong></li>
+        <li><strong>L-Tyrosine: 70 mg</strong></li>
       </ul>
       <p>Empower yourself to overcome the challenges of PCOS and enhance your fertility with Inovial.</p>
     `,
@@ -191,13 +201,36 @@ export const productsDetails = [
       <p>Experience optimal health during pregnancy and breastfeeding with Fortivial, your essential dietary supplement formulated to support the unique nutritional needs of expectant and nursing mothers.</p>
       <p>Fortivial contains a comprehensive blend of key vitamins and minerals to bridge nutritional gaps and ensure optimal health during this
 crucial time:</p>
-      <ul>
-        <li><strong>Folic acid and iodine:</strong> Essential for baby's brain development</li>
-        <li><strong>DHA:</strong> Supports baby's brain development</li>
-        <li><strong>Vitamin B12 and D3:</strong> Important for baby's nervous system</li>
-        <li><strong>Iron:</strong> Prevents anemia in pregnancy and low birth weight baby</li>
-        <li><strong>Vitamin C:</strong> Enhances iron absorption</li>
-      </ul>
+<p><strong>Directions: </strong> Take one capsule daily with food or as directed by your physician</p>
+
+<ul>
+<li><strong>Serving size:</strong> 1 capsule</li>
+<li><strong>Servings per container:</strong> 30</li>
+</ul>
+
+<ul>
+<li><strong>Amount per Capsule:</strong></li>
+<li>Folic Acid: 800 mcg</li>
+<li>Vitamin B1 (Thiamine): 1.4 mg</li>
+<li>Vitamin B2 (Riboflavin): 1.4 mg</li>
+<li>Vitamin B5 (Pantothenic acid): 6 mg</li>
+<li>Vitamin B6 (Pyridoxine): 6 mg</li>
+<li>Vitamin B12: 20 mcg</li>
+<li>Vitamin C: 25 mg</li>
+<li>Vitamin D3: 600 IU</li>
+<li>Vitamin E: 15 mg</li>
+<li>Biotin: 30 mcg</li>
+<li>Iron: 28 mg</li>
+<li>Iodine: 220 mcg</li>
+<li>Zinc: 11 mg</li>
+<li>Copper: 1 mg</li>
+<li>Selenium: 60 mcg</li>
+<li>Manganese: 2 mg</li>
+<li>Niacinamide: 5 mg</li>
+<li>Calcium: 140 mg</li>
+<li>Magnesium: 20 mg</li>
+<li>Life's DHA: 100mg (High DHA omega-3 powder)</li>
+</ul>
       <p>Ensure you and your baby receive the essential nutrients needed for a healthy pregnancy and postnatal period with Fortivial.</p>
     `,
     image: "/products/6.png",
@@ -207,16 +240,28 @@ crucial time:</p>
     name: "FortiFlex",
     subName: "Joint Health Restoration",
     description: `
-      <p>Find relief from inflammation and joint pain while restoring joint health with FortiFlex, a specially tailored dietary supplement.</p>
-      <p>FortiFlex features a powerful blend of key ingredients:</p>
-      <ul>
-        <li><strong>Glucosamine:</strong> Slows down cartilage deterioration and provides pain relief in aging joints</li>
-        <li><strong>MSM (MethylSulfonylMethane):</strong> Natural anti-inflammatory with no gastric side effects</li>
-        <li><strong>Collagen:</strong> Provides smoothness and strength to cartilage</li>
-        <li><strong>Hyaluronic acid:</strong> Lubricates joints for improved freedom of movement</li>
-      </ul>
-      <p>In addition to glucosamine and MSM, FortiFlex contains other long-lasting anti-inflammatory substances to reduce pain in both acute and chronic inflammations.</p>
-      <p>Experience reduced inflammation, relief from joint pain, and restored flexibility with FortiFlex.</p>
+    <p>FortiFlex is specially tailored to alleviate inflammation and pain and to restore joint health. Glucosamine is known to help slow down cartilage deterioration and provide pain relief in aging joints. MSM (MethylSulfonylMethane) is a natural anti-inflammatory that alleviates inflammation without any gastric side effects. FortiFlex also contains other long-lasting anti-inflammatory substances that reduce pain in both acute and chronic inflammations. Collagen gives cartilage its smoothness and strength, whereas hyaluronic acid lubricates joints for better freedom of movement. With all these ingredients, FortiFlex will reduce inflammation and joint pain and restore comfortable flexible movement.</p>
+
+    <h3>DIRECTIONS</h3>
+    <p>Take two capsules per day with food or as directed by your physician.</p>
+    
+    <h3>SUPPLEMENT FACTS</h3>
+    <ul>
+        <li><strong>Serving size:</strong> 2 capsules</li>
+        <li><strong>Servings Per Pack:</strong> 30</li>
+    </ul>
+    
+    <ul>
+        <li><strong>Amount per serving:</strong></li>
+        <li>MSM: 600 mg</li>
+        <li>Glucosamine: 400 mg</li>
+        <li>Boswellia extract: 200 mg</li>
+        <li>Quercetin: 60 mg</li>
+        <li>Collagen: 50 mg</li>
+        <li>Vitamin C: 40 mg</li>
+        <li>Bromelain: 20 mg</li>
+        <li>Hyaluronic acid: 5 mg</li>
+    </ul>
     `,
     image: "/products/7.png",
     productId: "fortiFlex",
@@ -225,12 +270,27 @@ crucial time:</p>
     name: "FortiMag",
     subName: "Comprehensive Magnesium Supplement",
     description: `
-      <p>Experience relief from cramps, fatigue, and stress with FortiMag, a comprehensive food supplement packed with magnesium, vitamin B complex, and Melissa officinalis.</p>
-      <p>Magnesium is a mineral known for its ability to naturally relieve muscle cramps, tension, spasms, fatigue, and sleep disturbances. It plays a crucial role in neuromuscular transmission and enhances the body's metabolism and absorption of B vitamins.</p>
-      <p>The B vitamins in FortiMag regulate energy production, improve nerve signaling, and support neuromuscular activity, promoting overall well-being.</p>
-      <p>Melissa officinalis, or lemon balm, is included in FortiMag to reduce anxiety and insomnia, improve mood, and enhance overall well-being.</p>
-      <p>With FortiMag, you can prevent muscle cramps, relieve stress, and enjoy calm nights with ease.</p>
-    `,
+    <p>FortiMag is a comprehensive food supplement containing magnesium, vitamin B complex, and Melissa officinalis to help reduce cramps, fatigue, and stress. Magnesium, a mineral, has been proven to naturally relieve muscle cramps, tension, spasms, fatigue, and insomnia. Additionally, magnesium plays a role in neuromuscular transmission and enhances the body's metabolism and absorption of B vitamins. B vitamins regulate energy production and improve nerve signaling and neuromuscular activity.</p>
+
+    <p>FortiMag also contains Melissa officinalis, also known as lemon balm, which helps reduce anxiety and insomnia while improving mood and wellbeing. With all these ingredients, FortiMag prevents muscle cramps, relieves stress, and promotes calm nights and energetic days.</p>
+    
+    <h3>DIRECTIONS</h3>
+    <p>Take one capsule daily in the afternoon or as directed by your physician.</p>
+    
+    <h3>SUPPLEMENT FACTS</h3>
+    <ul>
+        <li><strong>Serving size:</strong> 1 capsule</li>
+        <li><strong>Servings Per Pack:</strong> 30</li>
+    </ul>
+    
+    <ul>
+        <li><strong>Amount per serving:</strong></li>
+        <li>Magnesium: 250 mg</li>
+        <li>Vitamin B6: 20 mg</li>
+        <li>Vitamin B9 (Folate): 1000 mcg</li>
+        <li>Vitamin B12: 100 mcg</li>
+        <li>Melissa officinalis: 20 mg</li>
+    </ul> `,
     image: "/products/8.png",
     productId: "fortiMag",
   },
@@ -238,14 +298,25 @@ crucial time:</p>
     name: "FortiNerve",
     subName: "Relief For Impaired Nervous Functions",
     description: `
-      <p>Combat the troublesome symptoms of impaired nervous functions, including pain, numbness, burning sensations, and sleep disturbances, with FortiNerve, a specialized dietary supplement tailored to reduce neuropathic anomalies.</p>
-      <p>FortiNerve features a unique blend of key ingredients:</p>
-      <ul>
-        <li><strong>MSM (MethylSulfonylMethane):</strong> A natural anti-inflammatory providing long-lasting pain relief without gastric or cardiovascular side effects</li>
-        <li><strong>Vitamins B1, B2, B6, and B12:</strong> Enhance energy production and neuromuscular transmission, promoting physical and mental performance</li>
-      </ul>
-      <p>Experience a better quality of life with FortiNerve, which energizes the body during the day, enhances physical and mental performance, and alleviates pain—all with a high safety profile.</p>
-    `,
+    <p>Impaired nervous functions can cause pain, numbness, burning sensations, and sleep disturbances. FortiNerve is a dietary supplement tailored to help reduce neuropathic anomalies, especially neuropathic pain. It contains highly-dosed MSM (MethylSulfonyl-Methane), a natural anti-inflammatory that provides long-lasting pain relief without any gastric or cardiovascular side effects. Additionally, FortiNerve includes a combination of vitamins B1, B2, B6, and B12, which enhance energy production and neuromuscular transmission. This supplement aims to improve quality of life by energizing the body during the day, enhancing physical and mental performance, and alleviating pain, all with a high safety profile.</p>
+
+    <h3>DIRECTIONS</h3>
+    <p>Take one capsule daily with breakfast or as directed by your physician.</p>
+    
+    <h3>SUPPLEMENT FACTS</h3>
+    <ul>
+        <li><strong>Serving size:</strong> 1 capsule</li>
+        <li><strong>Servings Per Pack:</strong> 30</li>
+    </ul>
+    
+    <ul>
+        <li><strong>Amount per serving:</strong></li>
+        <li>MSM: 750 mg</li>
+        <li>Vitamin B1: 5 mg</li>
+        <li>Vitamin B2: 5 mg</li>
+        <li>Vitamin B6: 10 mg</li>
+        <li>Vitamin B12: 500 mcg</li>
+    </ul>`,
     image: "/products/9.png",
     productId: "fortiNerve",
   },
