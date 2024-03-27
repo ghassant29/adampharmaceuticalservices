@@ -293,7 +293,7 @@ crucial time:</p>
     </ul> 
    
     
-    <p><strong>30 Capsules</strong</p>
+    <strong>30 Capsules</strong>
 
       <p><strong>Directions: </strong> Take 1 capsule per day or as directed by your physician.<p>
     `,
