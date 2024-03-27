@@ -21,7 +21,7 @@ const HeroSection = () => {
           <Typewriter
             component={"p"}
             options={{
-              delay: 50,
+              delay: 55,
               deleteSpeed: 30,
               strings: strings,
               autoStart: true,
