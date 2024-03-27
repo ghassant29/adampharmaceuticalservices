@@ -164,7 +164,7 @@ export const productsDetails = [
     <p><strong>L-Arginine 25 mg:</strong> Enhances erectile function by stimulating the synthesis of Nitric Oxide and supports the production of normal, healthy sperm.</p>
     <p>Discover the synergistic power of our fertility formula, meticulously crafted to support your reproductive goals and optimize your journey towards parenthood. Unlock your potential and embrace the possibilities of a vibrant and fertile future.</p>
     <strong>90 Capsules</strong>
-    <p><strong>Directions:</strong> Take 3 capsules per day with food as directed by your physician</p>`,
+    <p><strong>Directions:</strong> Take 3 capsules per day with food as directed by your physician.</p>`,
     image: "/products/1.png",
     productId: "spermax",
     brochure: [
@@ -193,7 +193,7 @@ export const productsDetails = [
       
       <strong>60 Capsules</strong>
 
-      <p><strong>Directions:</strong> Take 2 to 3 capsules per day with food as directed by your physician</p>
+      <p><strong>Directions:</strong> Take 2 to 3 capsules per day with food as directed by your physician.</p>
      
      
       
@@ -238,7 +238,7 @@ crucial time:</p>
 
       <strong>30 Capsules</strong>
 
-      <p><strong>Directions: </strong> Take one capsule daily with food or as directed by your physician</p>
+      <p><strong>Directions: </strong> Take 1 capsule daily with food or as directed by your physician.</p>
 
 
     `,
@@ -269,7 +269,7 @@ crucial time:</p>
     
     <strong>60 Capsules</strong>
 
-      <p><strong>Directions: </strong> Take 2 capsule per day or as directed by your physician</p>
+      <p><strong>Directions: </strong> Take 2 capsules per day or as directed by your physician.</p>
     `,
     image: "/products/7.png",
     productId: "fortiFlex",
