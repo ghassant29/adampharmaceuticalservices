@@ -144,7 +144,7 @@ export const productsDetails = [
     `,
     image: "/products/4.png",
     productId: "fortyVitSyrup",
-    brochure: ["/brochure/forty_vit_1.jpg", "/brochure/forty_vit_2.jpg"],
+    brochure: ["/brochure/forty_vit_2.jpg"],
   },
   {
     name: "Spermax",

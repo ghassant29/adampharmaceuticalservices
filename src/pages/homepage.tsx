@@ -3,13 +3,12 @@ import ContactUsSection from "../components/hompage/ContactUsSection";
 import HeroSection from "../components/hompage/HeroSection";
 import ProductsSection from "../components/hompage/ProductsSection";
 import ServicesSection from "../components/hompage/ServicesSection";
-import TeamSection from "../components/hompage/TeamSection";
+
 import { useHome } from "../context/providers/homepage.provider";
 import Page from "../layouts/page";
 
 const Homepage = () => {
-  const { aboutRef, contactRef, heroRef, productsRef, servicesRef, teamRef } =
-    useHome();
+  const { aboutRef, contactRef, heroRef, productsRef, servicesRef } = useHome();
 
   return (
     <Page>
@@ -21,8 +20,7 @@ const Homepage = () => {
       <ProductsSection />
       <div ref={aboutRef} />
       <AboustUsSection />
-      <div ref={teamRef} />
-      <TeamSection />
+
       <div ref={contactRef} />
       <ContactUsSection />
     </Page>

@@ -13,7 +13,7 @@ type Props = {
 const scrollTo = (ref: LegacyRef<HTMLDivElement> | undefined) => {
   // @ts-ignore
   ref?.current?.scrollIntoView({
-    behavior: "smooth"
+    behavior: "smooth",
   });
 };
 

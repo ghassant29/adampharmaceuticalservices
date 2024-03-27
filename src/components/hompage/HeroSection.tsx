@@ -27,7 +27,7 @@ const HeroSection = () => {
               autoStart: true,
               loop: true,
               wrapperClassName:
-                "text-white font-bold text-3xl md:text-5xl  text-center leading-tight [text-shadow:_0_2px_3px_rgb(72_176_201_/_80%)]",
+                "text-white font-bold text-3xl md:text-5xl  text-center leading-tight [text-shadow:_2px_5px_3px_rgb(177_38_37_/_100%)]",
               cursorClassName:
                 "Typewriter__cursor text-secondary font-bold text-3xl md:text-5xl max-w-2xl text-center leading-tight [text-shadow:_0_2px_3px_rgb(0_0_0_/_40%)] animate-blink",
             }}
