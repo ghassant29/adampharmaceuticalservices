@@ -19,14 +19,14 @@ const AboustUsSection = () => {
           </h2>
         </div>
         <p className="text-white md:text-lg font-light">
-          Adam Pharmaceutical S.A.L is a pharmaceutical company based in
-          Tripoli, Lebanon, operating since 2005. Initially starting as a drug
-          store with a limited customer base, the company has grown
+          Adam Pharmaceutical Services s.a.l is a pharmaceutical company based
+          in Tripoli, Lebanon, operating since 2005. Initially starting as a
+          drug store with a limited customer base, the company has grown
           significantly. Through sustainable performance and a strong
           reputation, Adam Pharmaceutical has established partnerships with
-          hospitals, medical institutions, and pharmacies. They have expanded
-          their operations to become the sole distributor for numerous imported
-          and local pharmaceutical products. Our strategy focuses on maintaining
+          hospitals, medical institutions, and pharmacies. It expanded it's
+          operations to become the sole distributor for numerous imported and
+          local pharmaceutical products. Our strategy focuses on maintaining
           growth and exploring new opportunities for expansion.
         </p>
       </div>

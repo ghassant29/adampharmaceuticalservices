@@ -10,7 +10,7 @@ const ProductsSection = () => {
     >
       <SectionHeader
         title="Our Products"
-        subtitle="Discover Our Diverse Range Of Pharmaceutical Products"
+        subtitle="Discover our diverse range of pharmaceutical products"
       />
 
       {/* Updated container to use grid */}

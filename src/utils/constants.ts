@@ -112,7 +112,7 @@ export const productsDetails = [
       </ul>
       <p>Unlock the potential of liposomal iron supplementation with Forty FER®, ensuring optimal iron levels for overall well-being and vitality.</p>
       <strong>28 Capsules</strong>
-      <p><strong>Directions: </strong>One to Two Capsules Per Day<p>
+      <p><strong>Directions: </strong>Take 1 to 2 capsules per day with food or as directed by your physician.<p>
     `,
     image: "/products/3.png",
     productId: "fortyFer",
@@ -142,7 +142,7 @@ export const productsDetails = [
         <li>Zinc: <strong>2 mg</strong></li>
       </ul>
       <p>This advanced formula supports various aspects of health, including immune function, energy production, growth, and overall vitality. FortyVIT Syrup is your daily essential for maintaining optimal health and well-being.</p>
-    `,
+      <p><strong>Dosage: </strong> 5 ml per day.<p> `,
     image: "/products/4.png",
     productId: "fortyVitSyrup",
     brochure: ["/brochure/forty_vit_2.jpg"],
@@ -163,7 +163,8 @@ export const productsDetails = [
     <p><strong>Magnesium 10 mg:</strong> Supports the production of healthy sperm and seminal fluids, and regulates blood flow to the reproductive organs.</p>
     <p><strong>L-Arginine 25 mg:</strong> Enhances erectile function by stimulating the synthesis of Nitric Oxide and supports the production of normal, healthy sperm.</p>
     <p>Discover the synergistic power of our fertility formula, meticulously crafted to support your reproductive goals and optimize your journey towards parenthood. Unlock your potential and embrace the possibilities of a vibrant and fertile future.</p>
-    <br><p><strong>90 Capsules<br><br>Directions:</strong> 3 Capsules Per Day</p>`,
+    <strong>90 Capsules</strong>
+    <p><strong>Directions:</strong> Take 3 capsules per day with food as directed by your physician</p>`,
     image: "/products/1.png",
     productId: "spermax",
     brochure: [
@@ -190,9 +191,9 @@ export const productsDetails = [
       </ul>
       <p>Empower yourself to overcome the challenges of PCOS and enhance your fertility with Inovial.</p>
       
-      <p><strong>60 Capsules</strong</p>
+      <strong>60 Capsules</strong>
 
-      <p><strong>Directions: </strong>Take 2 to 3 capsules per day with food as directed by your physician</p>
+      <p><strong>Directions:</strong> Take 2 to 3 capsules per day with food as directed by your physician</p>
      
      
       
@@ -235,7 +236,7 @@ crucial time:</p>
       <p>Ensure you and your baby receive the essential nutrients needed for a healthy pregnancy and postnatal period with Fortivial.</p>
       
 
-      <p><strong>30 Capsules</strong</p>
+      <strong>30 Capsules</strong>
 
       <p><strong>Directions: </strong> Take one capsule daily with food or as directed by your physician</p>
 
@@ -266,9 +267,9 @@ crucial time:</p>
  
  
     
-    <p><strong>60 Capsules</strong</p>
+    <strong>60 Capsules</strong>
 
-      <p><strong>Directions: </strong> Take two capsules per day with food or as directed by your physician.</p>
+      <p><strong>Directions: </strong> Take 2 capsule per day or as directed by your physician</p>
     `,
     image: "/products/7.png",
     productId: "fortiFlex",
@@ -294,7 +295,7 @@ crucial time:</p>
     
     <p><strong>30 Capsules</strong</p>
 
-      <p><strong>Directions: </strong> Take one capsule daily in the afternoon or as directed by your physician.</p>
+      <p><strong>Directions: </strong> Take 1 capsule per day or as directed by your physician.<p>
     `,
     image: "/products/8.png",
     productId: "fortiMag",
@@ -315,9 +316,9 @@ crucial time:</p>
         <li>Vitamin B6: 10 mg</li>
         <li>Vitamin B12: 500 mcg</li>
     </ul>
-    <p><strong>30 Capsules</strong</p>
+    <strong>30 Capsules</strong>
 
-    <p><strong>Directions: </strong> Take one capsule daily with breakfast or as directed by your physician.</p>
+    <p><strong>Directions: </strong> Take 1 capsule per day with food or as directed by your physician.<p>
   
     
     `,

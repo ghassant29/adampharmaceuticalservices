@@ -65,12 +65,12 @@ const ContactUsSection = () => {
                 </a>
               </li>
               <li>
-                Support:{" "}
+                Info:{" "}
                 <a
-                  href="mailto:support@adampharmlb.com"
+                  href="mailto:info@adampharmlb.com"
                   className="text-white hover:underline"
                 >
-                  support@adampharmlb.com
+                  info@adampharmlb.com
                 </a>
               </li>
             </ul>

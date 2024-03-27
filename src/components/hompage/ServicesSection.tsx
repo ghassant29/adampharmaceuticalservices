@@ -23,12 +23,12 @@ const ServicesSection = () => {
         <ServiceCard
           icon={FaSyringe}
           title="Medical Supplies Distribution"
-          description="Swiftly delivering essential medical supplies to healthcare facilities, ensuring seamless access and enhanced patient care through streamlined logistics."
+          description="Swift delivery of essential medical supplies to healthcare facilities, ensuring seamless access and enhanced patient care through streamlined logistics."
         />
         <ServiceCard
           icon={FaPills}
           title="Diverse Supplements"
-          description="Sells a diverse range of supplements to meet various health needs, including vitamins, minerals, herbal extracts, and specialty supplements."
+          description="Sale of a diverse range of supplements to meet various health needs, including vitamins, minerals, herbal extracts, and specialty supplements."
         />
       </div>
     </div>
